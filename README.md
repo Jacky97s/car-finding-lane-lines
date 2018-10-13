@@ -1,4 +1,6 @@
 
+But first you need to have a car..
+
 # Finding Lane Lines on the Road
 ***
 
